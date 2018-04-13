@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1523589292 source:e:\mygit\tetris\console.cpp
+	"console.h"
+	<windows.h>
+	<stdio.h>
+	<string>
+
+1523093318 e:\mygit\tetris\console.h
+	<string>
+
+1523589648 source:e:\mygit\tetris\point.cpp
+	"point.h"
+	"console.h"
+	<windows.h>
+	<iostream>
+
+1523589656 e:\mygit\tetris\point.h
+	<string>
+
+1523629752 source:e:\mygit\tetris\main.cpp
+	<iostream>
+	"console.h"
+	"point.h"
+	"rectangle.h"
+	"gameMap.h"
+	"controller.h"
+	<conio.h>
+
+1523096968 source:e:\mygit\tetris\rectangle.cpp
+	"rectangle.h"
+	"console.h"
+	<algorithm>
+	<iostream>
+
+1523096916 e:\mygit\tetris\rectangle.h
+	"point.h"
+
+1523628860 source:e:\mygit\tetris\gamemap.cpp
+	"gameMap.h"
+	"console.h"
+	"point.h"
+	"global.h"
+	<stdlib.h>
+	<iostream>
+
+1523627940 e:\mygit\tetris\gamemap.h
+	"rectangle.h"
+	<string>
+
+1523610464 source:e:\mygit\tetris\shape.cpp
+	"shape.h"
+	"global.h"
+	<time.h>
+	<stdlib.h>
+
+1523610288 e:\mygit\tetris\shape.h
+	"point.h"
+	"gameMap.h"
+	<vector>
+
+1523632062 source:e:\mygit\tetris\controller.cpp
+	"controller.h"
+	"global.h"
+	"point.h"
+	"shape.h"
+	"controller.h"
+	<vector>
+	<string>
+	<conio.h>
+	<iostream>
+	<algorithm>
+	<windows.h>
+
+1523630018 e:\mygit\tetris\controller.h
+	"gameMap.h"
+	"shape.h"
+	<vector>
+
+1523602082 e:\mygit\tetris\global.h
+
+1523589291 source:c:\users\zyb\desktop\primer\tetris\console.cpp
+	"console.h"
+	<windows.h>
+	<stdio.h>
+	<string>
+
+1523093318 c:\users\zyb\desktop\primer\tetris\console.h
+	<string>
+
+1523631759 source:c:\users\zyb\desktop\primer\tetris\controller.cpp
+	"controller.h"
+	"global.h"
+	"point.h"
+	"shape.h"
+	"controller.h"
+	<vector>
+	<string>
+	<conio.h>
+	<iostream>
+	<algorithm>
+	<windows.h>
+
+1523630016 c:\users\zyb\desktop\primer\tetris\controller.h
+	"gameMap.h"
+	"shape.h"
+	<vector>
+
+1523627939 c:\users\zyb\desktop\primer\tetris\gamemap.h
+	"rectangle.h"
+	<string>
+
+1523096916 c:\users\zyb\desktop\primer\tetris\rectangle.h
+	"point.h"
+
+1523589654 c:\users\zyb\desktop\primer\tetris\point.h
+	<string>
+
+1523602081 c:\users\zyb\desktop\primer\tetris\global.h
+
+1523610287 c:\users\zyb\desktop\primer\tetris\shape.h
+	"point.h"
+	"gameMap.h"
+	<vector>
+
+1523628859 source:c:\users\zyb\desktop\primer\tetris\gamemap.cpp
+	"gameMap.h"
+	"console.h"
+	"point.h"
+	"global.h"
+	<stdlib.h>
+	<iostream>
+
+1523629751 source:c:\users\zyb\desktop\primer\tetris\main.cpp
+	<iostream>
+	"console.h"
+	"point.h"
+	"rectangle.h"
+	"gameMap.h"
+	"controller.h"
+	<conio.h>
+
+1523589646 source:c:\users\zyb\desktop\primer\tetris\point.cpp
+	"point.h"
+	"console.h"
+	<windows.h>
+	<iostream>
+
+1523096968 source:c:\users\zyb\desktop\primer\tetris\rectangle.cpp
+	"rectangle.h"
+	"console.h"
+	<algorithm>
+	<iostream>
+
+1523610462 source:c:\users\zyb\desktop\primer\tetris\shape.cpp
+	"shape.h"
+	"global.h"
+	<time.h>
+	<stdlib.h>
+
